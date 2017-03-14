@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Background
+  - Background2
   layers:
   - Default
   - TransparentFX
@@ -43,6 +45,9 @@ TagManager:
     locked: 0
   - name: Background
     uniqueID: 1987195597
+    locked: 0
+  - name: Sprites
+    uniqueID: 37975235
     locked: 0
   - name: UI
     uniqueID: 941950183
