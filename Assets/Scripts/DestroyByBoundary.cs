@@ -4,8 +4,11 @@ using UnityEngine;
 
 public class DestroyByBoundary : MonoBehaviour {
 
-    private void OnTriggerExit(Collider other)
+    private void OnTriggerExit2D(Collider2D collision)
     {
-        Destroy(other.gameObject);
+        if (collision.tag == "Shot")
+            return;
+        else
+            Destroy(collision.gameObject);
     }
 }

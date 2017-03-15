@@ -29,6 +29,6 @@ public class PlayerController : MonoBehaviour
         rigidbody.position = new Vector2(
             Mathf.Clamp(rigidbody.position.x, xMin, xMax),
             Mathf.Clamp(rigidbody.position.y, yMin, yMax)
-            );
+            );         
     }
 }
