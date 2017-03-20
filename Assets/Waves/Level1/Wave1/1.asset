@@ -12,11 +12,10 @@ MonoBehaviour:
   m_Name: 1
   m_EditorClassIdentifier: 
   enemy: {fileID: 1259374354154638, guid: 2c6333cd7d3235d49b5d87c87bce5e93, type: 2}
+  speed: 15
   spawnTime: 1
   spawnPoint: {x: 14, y: 4}
-  waypointList:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  waypoints:
+  - {x: -12, y: 6}
+  - {x: 12, y: 6}
+  - {x: -14, y: 6}

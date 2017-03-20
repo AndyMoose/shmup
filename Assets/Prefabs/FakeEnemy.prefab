@@ -22,7 +22,6 @@ GameObject:
   - component: {fileID: 50456537921966210}
   - component: {fileID: 70082534791545350}
   - component: {fileID: 212870860284614082}
-  - component: {fileID: 114649133143291942}
   m_Layer: 0
   m_Name: FakeEnemy
   m_TagString: Untagged
@@ -77,18 +76,6 @@ CapsuleCollider2D:
   m_Offset: {x: 0, y: 0}
   m_Size: {x: 0.5, y: 1}
   m_Direction: 1
---- !u!114 &114649133143291942
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1259374354154638}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4417a67c27c6c204eb7c84b65f6a01e8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: -10
 --- !u!212 &212870860284614082
 SpriteRenderer:
   m_ObjectHideFlags: 1
