@@ -7,6 +7,7 @@ TagManager:
   - Background
   - Shot
   - Boundary
+  - Wave Spawner
   layers:
   - Default
   - TransparentFX

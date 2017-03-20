@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Name: WAVE1
   m_EditorClassIdentifier: 
   spawnList:
-  - {fileID: 11400000, guid: 57b46be19418e82409d015d71450a6f8, type: 2}
+  - {fileID: 11400000, guid: ca316af9d24d7224c9924542674888a7, type: 2}
   - {fileID: 11400000, guid: 63d7be59323c6214fbe59d830ba9a673, type: 2}
   - {fileID: 11400000, guid: 1f41bd68cd0ced6468d4a1ca964b389e, type: 2}
   - {fileID: 11400000, guid: c91493211ddcb8a4c9ba4e8bf0291150, type: 2}
   - {fileID: 11400000, guid: b85317519aaf8dd44b62de36c66c8fa8, type: 2}
-  waveTime: 5
+  waveTime: 1

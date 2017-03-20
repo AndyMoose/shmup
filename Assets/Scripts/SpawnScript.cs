@@ -8,8 +8,9 @@ using UnityEngine;
 public class SpawnScript : ScriptableObject
 {
     public GameObject enemy;
-    public int spawnTime;
+    public float spawnTime;
     public Vector2 spawnPoint;
-    public Animator animator;
+    public List<Waypoint> waypointList;
+
 }
 

@@ -11,7 +11,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 815ad755bade84e4983bd5d3835de1b0, type: 3}
   m_Name: 1
   m_EditorClassIdentifier: 
-  enemy: {fileID: 0}
-  spawnTime: 0
-  spawnPoint: {x: 0, y: 0}
-  animator: {fileID: 0}
+  enemy: {fileID: 1259374354154638, guid: 2c6333cd7d3235d49b5d87c87bce5e93, type: 2}
+  spawnTime: 1
+  spawnPoint: {x: 14, y: 4}
+  waypointList:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
