@@ -13,4 +13,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   spawnList:
   - {fileID: 11400000, guid: ca316af9d24d7224c9924542674888a7, type: 2}
-  waveTime: 1
+  - {fileID: 11400000, guid: 683bb0e166174df4f85f966f5b599410, type: 2}
+  - {fileID: 11400000, guid: 61ddb7ccc5e851240b1d82b20959975b, type: 2}
+  waveTime: 0

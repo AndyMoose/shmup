@@ -9,7 +9,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 815ad755bade84e4983bd5d3835de1b0, type: 3}
-  m_Name: 1
+  m_Name: 2
   m_EditorClassIdentifier: 
   enemy: {fileID: 1259374354154638, guid: 2c6333cd7d3235d49b5d87c87bce5e93, type: 2}
   speed: 15
@@ -19,5 +19,3 @@ MonoBehaviour:
   - {x: -12, y: 6}
   - {x: 12, y: 0}
   - {x: -14, y: -6}
-  waitAtPoint: 000100
-  secsToWait: 000000000300000000000000

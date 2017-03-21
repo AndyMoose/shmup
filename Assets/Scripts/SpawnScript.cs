@@ -13,5 +13,8 @@ public class SpawnScript : ScriptableObject
     public Vector2 spawnPoint;
     public List<Vector2> waypoints;
 
+    public bool[] waitAtPoint;
+    public int[] secsToWait;
+
 }
 
